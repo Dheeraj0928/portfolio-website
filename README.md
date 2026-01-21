@@ -1,3 +1,12 @@
+Preview of my website 
+<img width="1778" height="904" alt="image" src="https://github.com/user-attachments/assets/ce059084-5644-4eb9-9ba0-409d329b2bcf" />
+<img width="1775" height="893" alt="image" src="https://github.com/user-attachments/assets/a717adf0-5b76-40f8-b55d-30a611dbabb3" />
+<img width="1834" height="857" alt="image" src="https://github.com/user-attachments/assets/4d889599-a57c-479c-ad00-d2fa5fcc74d0" />
+<img width="1772" height="886" alt="image" src="https://github.com/user-attachments/assets/c5123530-c668-43e1-9e16-a686196e23f2" />
+<img width="1838" height="911" alt="image" src="https://github.com/user-attachments/assets/e444b26b-61cf-4b4c-b509-a3b110736383" />
+
+
+
 🚀 Dheeraj Kumar Yadav — AI/ML Engineer & Full-Stack Developer
 
 I build intelligent systems that actually work — not just models that look good in notebooks.
